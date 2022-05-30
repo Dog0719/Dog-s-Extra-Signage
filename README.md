@@ -1,5 +1,5 @@
 # Dog-s-Extra-Signage
-Package for BEE2.4 that adds extra signage
+Package for BEE2.4 that adds extra signage. Only have clean versions as of 30/5/2022
 
 Signage List:
 
@@ -17,4 +17,4 @@ Signage List:
 
 -Gel on Cube
 
-Only have clean versions as of 30/5/2022
+
