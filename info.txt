@@ -1,0 +1,164 @@
+"ID" "Dog's_Signage"
+"Name" "Dog's Custom Signage"
+"Desc" "Custom signage created by Dog."
+"Signage"
+{
+"ID" "SIGN_GEL_CUBE"
+"Name" "Gel Covering Cube"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/gel_cube"
+"icon" "items/clean/BEE/signage/gelcube.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_HEP_TURRET"
+"Name" "HEP Hitting Turret"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/hep_turret"
+"icon" "items/clean/BEE/signage/hepturret.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_PLATE_CUBE"
+"Name" "Cube on Faith Plate"
+"Secondary" "SIGN_CUBE_FALL"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/plate_cube"
+"icon" "items/clean/BEE/signage/platecube.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_REF_GEL"
+"Name" "Reflection Gel"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/reflect_gel"
+"icon" "items/clean/BEE/signage/refgel.png"
+}
+}
+}
+
+"Signage"
+{
+"ID" "SIGN_CUBE_FALL"
+"Name" "Cube Falling"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/cube_fall"
+"icon" "items/clean/BEE/signage/cubefall.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_FRANK_DROP"
+"Name" "Frankenturret Dropper"
+"Secondary" "SIGN_FRANK_WHACK"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/frank_drop"
+"icon" "items/clean/BEE/signage/frank_drop.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_FRANK_WHACK"
+"Name" "Frankenturret on Head Warning"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/frank_whack"
+"icon" "items/clean/BEE/signage/frank_whack.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_CUBE_FLING_1"
+"Name" "Cube Fling 1"
+"Secondary" "SIGN_CUBE_FLING_2"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/cube_fling_1"
+"icon" "items/clean/BEE/signage/cube_fling_1.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_CUBE_FLING_2"
+"Name" "Cube Fling 2"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/cube_fling_2"
+"icon" "items/clean/BEE/signage/cube_fling_2.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_CAKE"
+"Name" "Cake"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/cake"
+"icon" "items/clean/BEE/signage/cake.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_REP_CUBE"
+"Name" "Gel Covered Cube"
+"Secondary" "SIGN_GEL_CUBE"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/cube_bounce"
+"icon" "items/clean/BEE/signage/cube_bounce.png"
+}
+}
+}
+"Signage"
+{
+"ID" "SIGN_TIMER"
+"Name" "Timer"
+"Styles"
+{
+"BEE2_CLEAN"
+{
+"overlay" "BEE2/signage/timer"
+"icon" "items/clean/BEE/signage/timer.png"
+}
+}
+}
