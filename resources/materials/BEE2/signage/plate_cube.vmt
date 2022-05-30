@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+"$basetexture" "BEE2/signage/plate_cube"
+$selfillum 1
+}

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+"$basetexture" "BEE2/signage/cube_fall"
+$selfillum 1
+}
