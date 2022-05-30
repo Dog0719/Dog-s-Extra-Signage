@@ -1,4 +1,4 @@
-# Dog-s-Extra-Signage
+# Dogs-Extra-Signage
 Package for BEE2.4 that adds 10 extra signage. Only have clean versions as of 30/5/2022
 
 Signage List:
