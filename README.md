@@ -5,7 +5,7 @@ Package for BEE2.4 that adds extra signage
 
 - Old Ap 50s/60s.
 
--Old Ap 80s.
+- Old Ap 80s.
 # Signages Included
 - Frankenturret Dropper
 
