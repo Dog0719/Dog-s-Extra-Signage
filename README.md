@@ -38,4 +38,4 @@ Package for BEE2.4 that adds extra signage
 
 -Old Ap 70s. 
 # Images
-!https://cdn.discordapp.com/attachments/742892228653088879/987741631732121610/unknown.png
+!(https://cdn.discordapp.com/attachments/742892228653088879/987741631732121610/unknown.png)
