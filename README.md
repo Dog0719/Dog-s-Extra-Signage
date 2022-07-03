@@ -6,12 +6,8 @@ Package for BEE2.4 that adds extra signage
 # Supported Styles
 - Clean
 
-- Old Ap 50s/60s.
-
-- Old Ap 80s.
-
-- Old Ap 70s
-# Signages Included
+-Every version of Old Aperture
+# Signage Included
 - Frankenturret Dropper
 
 - Frankenturret on Head Warning
