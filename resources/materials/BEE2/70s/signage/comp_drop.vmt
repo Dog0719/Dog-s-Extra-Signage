@@ -1,0 +1,8 @@
+LightMappedGeneric
+{
+$basetexture "BEE2/70s/signage/comp_drop"
+$surfaceprop plastic
+$translucent 1
+$decal 1
+"%keywords" 70s
+}
