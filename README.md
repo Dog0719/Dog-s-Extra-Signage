@@ -1,5 +1,8 @@
 # Dogs-Extra-Signage
 Package for BEE2.4 that adds extra signage
+
+![image](https://user-images.githubusercontent.com/100389777/177050710-deb05350-5b03-46ae-b617-6ac7f814e962.png)
+
 # Supported Styles
 - Clean
 
@@ -33,9 +36,8 @@ Package for BEE2.4 that adds extra signage
 
 - Companion Cube Dropper
 
-# Planned Updates
--Overgrown
+- Skull Cube Dropper
 
--Old Ap 70s. 
+- Skull Cube on Head Warning
 
-![image](https://user-images.githubusercontent.com/100389777/177050710-deb05350-5b03-46ae-b617-6ac7f814e962.png)
+- Conductive Plate
