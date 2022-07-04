@@ -1,8 +1,0 @@
-LightMappedGeneric
-{
-$basetexture "BEE2/70s/signage/cube_bounce"
-$surfaceprop plastic
-$translucent 1
-$decal 1
-"%keywords" 70s
-}
