@@ -39,3 +39,5 @@ Package for BEE2.4 that adds extra signage
 - Skull Cube on Head Warning
 
 - Conductive Plate
+
+- "Pull the Rug" Step 1 + 2
