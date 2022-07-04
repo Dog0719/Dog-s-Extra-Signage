@@ -6,7 +6,7 @@ Package for BEE2.4 that adds extra signage
 # Supported Styles
 - Clean
 
--Every version of Old Aperture
+- Every version of Old Aperture
 # Signage Included
 - Frankenturret Dropper
 
