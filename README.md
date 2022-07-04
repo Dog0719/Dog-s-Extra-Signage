@@ -1,7 +1,7 @@
 # Dogs-Extra-Signage
 Package for BEE2.4 that adds extra signage
 
-![image](https://user-images.githubusercontent.com/100389777/177050710-deb05350-5b03-46ae-b617-6ac7f814e962.png)
+![image](https://user-images.githubusercontent.com/100389777/177182174-963b2fba-e2f2-4263-a4a2-acc4649fc1cd.png)
 
 # Supported Styles
 - Clean
